@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+main img{
+    width: 100%;
+}
+h1{
+    font-size: 50px;
+    margin: 30px;
+}
